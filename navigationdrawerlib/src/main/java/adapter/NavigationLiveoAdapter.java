@@ -34,7 +34,7 @@ import br.liveo.navigationliveo.R;
 
 
 public class NavigationLiveoAdapter extends BaseAdapter {
-
+//asasd
     private int mColorIcon = 0;
     private int mColorName = 0;
     private int mColorCounter = 0;
